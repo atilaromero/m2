@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:55:52 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624152151
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.jdom\:jdom2\:pom\:2.0.6 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/jdom/jdom2/2.0.6/jdom2-2.0.6.pom. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624151680
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624151771

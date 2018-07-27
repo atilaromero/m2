@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:54:24 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624064725
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.tukaani\:xz\:pom\:1.8 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/tukaani/xz/1.8/xz-1.8.pom. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624064240
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624064355

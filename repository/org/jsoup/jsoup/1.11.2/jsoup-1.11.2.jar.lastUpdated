@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:58:50 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624330817
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.jsoup\:jsoup\:jar\:1.11.2 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/jsoup/jsoup/1.11.2/jsoup-1.11.2.jar. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624192074
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624192884

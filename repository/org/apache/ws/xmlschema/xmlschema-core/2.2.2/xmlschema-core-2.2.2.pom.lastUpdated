@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:55:02 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624102319
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.apache.ws.xmlschema\:xmlschema-core\:pom\:2.2.2 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/apache/ws/xmlschema/xmlschema-core/2.2.2/xmlschema-core-2.2.2.pom. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624101780
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624101891

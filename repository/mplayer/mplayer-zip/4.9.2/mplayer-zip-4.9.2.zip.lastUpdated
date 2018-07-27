@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 18:10:05 UTC 2018
+http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532628605582
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1532628553059
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532628546976

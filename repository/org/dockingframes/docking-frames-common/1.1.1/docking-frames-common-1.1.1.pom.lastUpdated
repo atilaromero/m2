@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 18:02:06 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532628126240
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.dockingframes\:docking-frames-common\:pom\:1.1.1 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/dockingframes/docking-frames-common/1.1.1/docking-frames-common-1.1.1.pom. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532628120618
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532628120730

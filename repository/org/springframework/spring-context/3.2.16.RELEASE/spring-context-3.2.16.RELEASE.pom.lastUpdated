@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:55:42 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624142218
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.springframework\:spring-context\:pom\:3.2.16.RELEASE from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/springframework/spring-context/3.2.16.RELEASE/spring-context-3.2.16.RELEASE.pom. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624141753
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624141842

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:58:50 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624330819
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.apache.uima\:uimafit-core\:jar\:2.2.0 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/apache/uima/uimafit-core/2.2.0/uimafit-core-2.2.0.jar. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624192076
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624192885

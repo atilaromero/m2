@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 18:03:10 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532628190686
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact com.github.luben\:zstd-jni\:jar\:1.3.3-3 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/com/github/luben/zstd-jni/1.3.3-3/zstd-jni-1.3.3-3.jar. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532628139236
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532628147386

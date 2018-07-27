@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:54:41 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624081700
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.apache.poi\:poi-ooxml\:pom\:3.17 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.pom. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624080781
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624080881

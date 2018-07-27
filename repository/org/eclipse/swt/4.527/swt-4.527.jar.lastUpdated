@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 18:02:27 UTC 2018
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.eclipse\:swt\:jar\:4.527 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/eclipse/swt/4.527/swt-4.527.jar. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532628139242
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532628147387

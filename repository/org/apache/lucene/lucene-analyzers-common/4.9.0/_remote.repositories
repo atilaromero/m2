@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 18:02:19 UTC 2018
+lucene-analyzers-common-4.9.0.pom>archiva.internal=
+lucene-analyzers-common-4.9.0.jar>internal=
+lucene-analyzers-common-4.9.0.pom>internal=
+lucene-analyzers-common-4.9.0.jar>archiva.internal=

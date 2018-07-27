@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 18:08:27 UTC 2018
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.imagemagick\:imagemagick-zip\:zip\:7.0.5-4 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/imagemagick/imagemagick-zip/7.0.5-4/imagemagick-zip-7.0.5-4.zip. Return code is\: 500, ReasonPhrase\: Unable to fetch artifact resource..
+@default-archiva.internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624881367
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532628507271
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532628507323

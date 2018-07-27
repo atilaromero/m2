@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 17:10:01 UTC 2018
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact libre-office\:noalibre-lib\:zip\:4.0.4 from/to archiva.internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/libre-office/noalibre-lib/4.0.4/noalibre-lib-4.0.4.zip. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-archiva.internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624999032
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532625001981

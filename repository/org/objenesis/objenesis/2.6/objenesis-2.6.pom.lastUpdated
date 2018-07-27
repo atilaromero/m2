@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 16:54:21 UTC 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532624061453
+http\://10.61.242.12\:8081/repository/snapshots/.error=
+http\://10.61.242.12\:8081/repository/internal/.error=Could not transfer artifact org.objenesis\:objenesis\:pom\:2.6 from/to internal (http\://10.61.242.12\:8081/repository/internal/)\: Failed to transfer file\: http\://10.61.242.12\:8081/repository/internal/org/objenesis/objenesis/2.6/objenesis-2.6.pom. Return code is\: 500 , ReasonPhrase\:Unable to fetch artifact resource..
+@default-internal-http\://10.61.242.12\:8081/repository/internal/.lastUpdated=1532624060970
+http\://10.61.242.12\:8081/repository/snapshots/.lastUpdated=1532624061081
